@@ -1,0 +1,5 @@
+pygame>=2.2.2  # For UI, sound effects (if using Pygame)
+opencv-python>=4.8.0  # For computer vision (hand tracking)
+numpy>=1.23.5  # Optional, for potential image processing in hand tracking
+socket  # Built-in Python module for network communication
+threading  # Built-in Python module for multithreading (data receiving)
